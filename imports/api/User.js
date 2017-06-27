@@ -1,5 +1,4 @@
 import { Meteor } from 'meteor/meteor';
-import { Accounts } from 'meteor/accounts-base';
 
 export const User = {
   get: function() {
@@ -20,10 +19,5 @@ export const User = {
 
   profile: function() {
     return User.get().profile;
-  },
-
-  create: function(opts, callback) {
-    Accounts.createUser(opts, callback);
   }
 };
-

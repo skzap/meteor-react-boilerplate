@@ -21,8 +21,6 @@ function Home() {
         <li>React (MDG preview)</li>
         <li>Flow Router</li>
         <li>React Layout</li>
-        <li>Accounts Password</li>
-        <li>Accounts UI (with React wrapper)</li>
         <li>meteorhacks:npm</li>
         <li>cosmos:browserify</li>
         <li><b>Removes insecure</b></li>
@@ -32,7 +30,6 @@ function Home() {
       <h4>Components</h4>
       <ul>
         <li>Header</li>
-        <li>LoginButtons</li>
         <li>
           <a href="https://github.com/JedWatson/classnames">Classnames (NPM Component)</a>
         </li>

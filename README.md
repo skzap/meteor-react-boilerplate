@@ -18,9 +18,6 @@ For an in-depth example of how to use Meteor with React see
 - [EJSON](https://docs.meteor.com/api/ejson.html)
 - [Spacebars](https://docs.meteor.com/packages/spacebars.html)
 - [Check](https://docs.meteor.com/api/check.html)
-- [Accounts Password](http://docs.meteor.com/api/passwords.html)
-- [Accounts UI](https://docs.meteor.com/packages/accounts-ui.html) (with React wrapper)
-- [gadicc:blaze-react-component](https://github.com/gadicc/meteor-blaze-react-component/)
 
 #### NPM
 - React
@@ -31,7 +28,6 @@ For an in-depth example of how to use Meteor with React see
 
 #### Components
 - Header
-- LoginButtons
 
 #### Models
 - User
